@@ -1,0 +1,8 @@
+body{
+	font: 20pt/30pt Segoe UI Light;
+	background-image: url(blyat.png);
+}
+img{
+	position: fixed;
+	right: 800px;
+}
